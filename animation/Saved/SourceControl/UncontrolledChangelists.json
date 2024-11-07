@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Dancing_Twerk.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Jog_In_Circle.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/bluedudeanimationBP.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Situps.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Twist_Dance.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Wave_Hip_Hop_Dance.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/bluedudemovementBlendSpace.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WS/D7H1ZXS2TT1S1YZVKV0XWN.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N0/I5I985JUJ0ZNCLTUG5IQXA.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/BD/RWO8RCKKB4WI4FFDVFAFPZ.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1R/7IZRW9C4Z7QTX09N1FGTL1.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/WW/PY61XJWDBBGOUDZGWRKTXS.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/NQ/0EA49EEGLWQM3IWE9VOUDM.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/3C/S813E24UAXWAFU2EFLQ3KN.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MY/DA248A6Z58RRCW259ZKKMT.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/77/MHW6ZKF39YRVJ0W0WTHESB.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/AnimationSequence.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Breakdance_1990.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Breakdance_Uprock_Var_2.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_1001_Diffuse.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_1001_Glossiness.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_1001_Normal.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_1001_Specular.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_Body.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_nonPBR.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Ch19_nonPBR_Skeleton.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Happy_Idle.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Hurricane_Kick.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Jump_Push_Up.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Run.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Stroke_Shaking_Head.uasset",
+				"C:/Users/KBrown4/Documents/Unreal Projects/animation/Content/Animation/Walking.uasset"
+			]
+		}
+	]
+}
